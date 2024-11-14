@@ -1,0 +1,11 @@
+import React from "react";
+import App from "./Inline/inline";
+function render()
+{
+  return(
+    <div>
+      <App/>
+    </div>
+  )
+}
+export default render;
